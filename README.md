@@ -1,6 +1,5 @@
  # 🧩  Free Website Templates
- ![Image](politic.jpg) 
- ![](https://komarev.com/ghpvc/?username=mscbuild) 
+  ![](https://komarev.com/ghpvc/?username=mscbuild) 
  ![](https://img.shields.io/github/license/mscbuild/e-learning) 
  ![](https://img.shields.io/github/repo-size/mscbuild/political)
 ![](https://img.shields.io/badge/PRs-Welcome-green)
@@ -8,6 +7,7 @@
 ![](https://img.shields.io/github/stars/mscbuild)
 ![](https://img.shields.io/badge/Topic-Github-lighred)
 ![](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmscbuild)
+ ![Image](politic.jpg) 
 
 >Welcome to the Free Website Templates collection! This repository contains a curated list of responsive and modern HTML/CSS templates you can use for personal or commercial projects.
 
